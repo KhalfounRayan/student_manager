@@ -1,6 +1,6 @@
 ### TEST UNITAIRE: STUDENT MANAGER
 Realisation d'un projet de gestion d'étudiants développé en JAVA 
-### Colaborateurs:
+### Collaborateurs:
 - Kenza OUMOU
 - Yassine Mohamed ESSAMADI 
 - Rayan KHALFOUN
